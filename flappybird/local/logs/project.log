@@ -1,0 +1,97 @@
+2019-06-10T08:38:32.601Z - normal: Load ~/.CocosCreator/settings.json
+2019-06-10T08:38:33.729Z - normal: Initializing Asset Database
+2019-06-10T08:38:33.733Z - normal: checking language setting...
+2019-06-10T08:38:33.733Z - normal: Language: zh
+2019-06-10T08:38:34.408Z - success: preview server running at http://localhost:7456
+2019-06-10T08:38:34.411Z - success: protocol editor-framework registered
+2019-06-10T08:38:34.411Z - success: protocol app registered
+2019-06-10T08:38:34.411Z - success: protocol theme registered
+2019-06-10T08:38:34.411Z - success: protocol packages registered
+2019-06-10T08:38:34.412Z - success: protocol uuid registerred
+2019-06-10T08:38:34.412Z - success: protocol db registerred
+2019-06-10T08:38:34.412Z - success: protocol thumbnail registerred
+2019-06-10T08:38:34.412Z - success: protocol unpack registerred
+2019-06-10T08:38:34.412Z - success: protocol disable-commonjs registerred
+2019-06-10T08:38:34.497Z - normal: connected!
+2019-06-10T08:38:34.499Z - normal: Check project D:\project\cocos\CocosCreatorGames\games\flappybird
+2019-06-10T08:38:34.501Z - normal: Initializing project D:\project\cocos\CocosCreatorGames\games\flappybird
+2019-06-10T08:38:35.158Z - normal: Initializing Cocos2d
+2019-06-10T08:38:35.825Z - normal: Initializing engine extends
+2019-06-10T08:38:35.827Z - normal: Loading editor/builtin packages from D:\software\cococreator\CocosCreator\resources\app.asar\editor\builtin
+2019-06-10T08:38:35.832Z - normal: Loading builtin packages from D:\software\cococreator\CocosCreator\resources\builtin
+2019-06-10T08:38:36.404Z - success: assets loaded
+2019-06-10T08:38:36.405Z - success: asset-db-debugger loaded
+2019-06-10T08:38:36.454Z - success: builder loaded
+2019-06-10T08:38:36.454Z - success: code-editor loaded
+2019-06-10T08:38:36.500Z - success: cocos-analytics loaded
+2019-06-10T08:38:36.501Z - success: color-picker loaded
+2019-06-10T08:38:36.592Z - success: console loaded
+2019-06-10T08:38:36.592Z - success: google-play-instant loaded
+2019-06-10T08:38:36.633Z - success: fb-instant-games loaded
+2019-06-10T08:38:36.633Z - success: jsb-adapter loaded
+2019-06-10T08:38:36.708Z - success: google-instant-games loaded
+2019-06-10T08:38:36.709Z - success: oppo-runtime loaded
+2019-06-10T08:38:36.737Z - success: hierarchy loaded
+2019-06-10T08:38:36.737Z - success: package-manager loaded
+2019-06-10T08:38:36.867Z - success: inspector loaded
+2019-06-10T08:38:36.867Z - success: qqplay-adapter loaded
+2019-06-10T08:38:36.872Z - success: keystore loaded
+2019-06-10T08:38:36.873Z - success: sdkbox loaded
+2019-06-10T08:38:36.884Z - success: node-library loaded
+2019-06-10T08:38:36.884Z - success: tester loaded
+2019-06-10T08:38:36.889Z - success: package-asset loaded
+2019-06-10T08:38:36.889Z - success: ui-grid loaded
+2019-06-10T08:38:36.907Z - success: preferences loaded
+2019-06-10T08:38:36.907Z - success: ui-kit-preview-extra loaded
+2019-06-10T08:38:36.911Z - success: project-exporter loaded
+2019-06-10T08:38:36.911Z - success: ui-kit-preview loaded
+2019-06-10T08:38:36.929Z - success: project-importer loaded
+2019-06-10T08:38:36.929Z - success: ui-kit loaded
+2019-06-10T08:38:36.937Z - success: project-settings loaded
+2019-06-10T08:38:36.938Z - success: ui-tree loaded
+2019-06-10T08:38:36.963Z - success: scene loaded
+2019-06-10T08:38:36.964Z - success: vivo-runtime loaded
+2019-06-10T08:38:36.965Z - success: simulator-debugger loaded
+2019-06-10T08:38:36.966Z - success: weapp-adapter loaded
+2019-06-10T08:38:36.967Z - success: sprite-editor loaded
+2019-06-10T08:38:36.976Z - success: store loaded
+2019-06-10T08:38:37.004Z - success: timeline loaded
+2019-06-10T08:38:38.453Z - normal: Loading packages
+2019-06-10T08:38:38.463Z - normal: Watching packages
+2019-06-10T08:38:38.874Z - normal: Run Application
+2019-06-10T08:57:06.771Z - failed: [db-task][sync-changes] Failed to import asset D:\project\cocos\CocosCreatorGames\games\flappybird\assets\Script\BirdCollision.js, message: Compile error: SyntaxError: D:/project/cocos/CocosCreatorGames/games/flappybird/assets/Script/BirdCollision.js: Invalid number (8:16)
+   6 |   // use this for initialization
+   7 |   onLoad: function() {
+>  8 |     console.log(000);
+     |                 ^
+   9 |     var manager = cc.director.getCollisionManager();
+  10 |     manager.enabled = true;
+  11 |   },
+    at Parser.pp$5.raise (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.readNumber (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1268:12)
+    at Parser.getTokenFromCode (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1102:21)
+    at Parser.readToken (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:776:19)
+    at Parser.nextToken (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:766:19)
+    at Parser.next (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:691:10)
+    at Parser.pp$3.parseSubscripts (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3529:12)
+    at Parser.pp$3.parseExprSubscripts (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+2019-06-10T09:13:27.501Z - failed: [db-task][sync-changes] Failed to import asset D:\project\cocos\CocosCreatorGames\games\flappybird\assets\Script\PillarGenerator.js, message: Compile error: SyntaxError: D:/project/cocos/CocosCreatorGames/games/flappybird/assets/Script/PillarGenerator.js: Unexpected token (360:36)
+  358 |      * 初始化碰撞检测
+  359 |      */
+> 360 |   setupCollisionListener: function (this) {
+      |                                     ^
+  361 |       let self = this
+  362 |     this.node.on('collided', function (event) {
+  363 |       console.log(888)
+    at Parser.pp$5.raise (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$2.parseBindingAtom (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3090:12)
+    at Parser.pp$2.parseMaybeDefault (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3136:23)
+    at Parser.pp$2.parseBindingList (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3116:23)
+    at Parser.pp$1.parseFunctionParams (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2395:22)
+    at Parser.pp$1.parseFunction (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2385:8)
+    at Parser.pp$3.parseFunctionExpression (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3760:17)
+    at Parser.pp$3.parseExprAtom (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3722:19)
+    at Parser.pp$3.parseExprSubscripts (D:\software\cococreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3494:19)

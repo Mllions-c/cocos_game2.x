@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roundCorner",
+    "texture": "f14a98dd-61a2-4802-b94f-741d3a0117a3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      130
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      130
+    ],
+    "capInsets": [
+      30,
+      20,
+      30,
+      30
+    ]
+  }
+}
