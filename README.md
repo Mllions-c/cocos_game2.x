@@ -3,10 +3,10 @@
 ## author yangyang
 ### Preview
 - 2048
-[链接](https://mllions-c.github.io/cocos_game2.x/2048):green_heart:
+[:link:](https://mllions-c.github.io/cocos_game2.x/2048):secret:
 - basketball
-[链接](https://mllions-c.github.io/cocos_game2.x/basketball):green_heart:
+[:link:](https://mllions-c.github.io/cocos_game2.x/basketball):secret:
 - bird
-[链接](https://mllions-c.github.io/cocos_game2.x/flappybird):green_heart:
+[:link:](https://mllions-c.github.io/cocos_game2.x/flappybird):secret:
 - aircraft
-[链接](https://mllions-c.github.io/cocos_game2.x/aircraft):green_heart:
+[:link:](https://mllions-c.github.io/cocos_game2.x/aircraft):secret:
