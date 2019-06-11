@@ -99,7 +99,16 @@
         "inspector",
         "scene"
       ]
-    }
+    },
+    "window-1560216647588": {},
+    "worker": {}
   },
-  "panels": {}
+  "panels": {
+    "builder": {
+      "x": 1503,
+      "y": 76,
+      "width": 670,
+      "height": 728
+    }
+  }
 }

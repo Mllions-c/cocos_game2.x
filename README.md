@@ -2,9 +2,11 @@
 ---
 ## 作者 yangyang
 ### 预览地址
-https://dhcdht.github.io/CocosCreatorGames/2048/
-
-
-https://dhcdht.github.io/CocosCreatorGames/flappybird/
-
-https://collection.inhere.top/games/aircraft/
+- 2048
+`https://mllions-c.github.io/cocos_game2.x/2048`
+- basketball
+`https://mllions-c.github.io/cocos_game2.x/basketball`
+- bird
+`https://dhcdht.github.io/CocosCreatorGames/flappybird/`
+- aircraft
+`https://collection.inhere.top/games/aircraft/`
