@@ -2,11 +2,11 @@
 ---
 ## author yangyang
 ### Preview
-- 2048
-[:link:](https://mllions-c.github.io/cocos_game2.x/2048):secret:
-- basketball
-[:link:](https://mllions-c.github.io/cocos_game2.x/basketball):secret:
-- bird
-[:link:](https://mllions-c.github.io/cocos_game2.x/flappybird):secret:
-- aircraft
-[:link:](https://mllions-c.github.io/cocos_game2.x/aircraft):secret:
+:link:
+[2048](https://mllions-c.github.io/cocos_game2.x/2048):cn:
+:link:
+[basketball](https://mllions-c.github.io/cocos_game2.x/basketball):cn:
+:link:
+[bird](https://mllions-c.github.io/cocos_game2.x/flappybird):cn:
+:link:
+[aircraft](https://mllions-c.github.io/cocos_game2.x/aircraft):cn:
