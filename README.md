@@ -3,7 +3,7 @@
 ## 作者 yangyang
 ### 预览地址
 - 2048
-[链接](https://mllions-c.github.io/cocos_game2.x/2048))
+[链接](https://mllions-c.github.io/cocos_game2.x/2048)
 - basketball
 [链接](https://mllions-c.github.io/cocos_game2.x/basketball)
 - bird
